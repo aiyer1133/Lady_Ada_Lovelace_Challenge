@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../javaScript"
+		}
+	],
+	"settings": {}
+}
